@@ -1,5 +1,6 @@
-### Hi there 👋
+### 해윙 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKairo20)](https://seeyoufarm.com)
 <!--
 **Kairo20/Kairo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Kairo20&show_icons=true&hide_border=true)]
+(https://github.com/Kairo20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kairo20&layout=compact)](https://github.com/Kairo20)
