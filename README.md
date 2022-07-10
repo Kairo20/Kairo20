@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Kairo20&show_icons=true&hide_border=true)(https://github.com/Kairo20)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Kairo20&show_icons=true&hide_border=true)](https://github.com/Kairo20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kairo20&layout=compact)](https://github.com/Kairo20)
